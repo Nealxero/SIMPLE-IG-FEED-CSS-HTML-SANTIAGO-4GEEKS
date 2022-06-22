@@ -1,0 +1,31 @@
+body {background:lightgray;
+margin:0;
+box-sizing: border-box;}
+
+header {background: white;}
+
+header h1 { margin:0;}
+
+div.Post-1 {background: white;}
+
+div.Post-1 img {width:100%;
+    margin: 0;
+    
+}
+
+div.Post-1 h2 {padding:10px;
+}
+
+div.Post-1 p { padding:10px;
+border-top-style: ;}
+
+
+
+div.Box {width:600px;
+margin:auto;}
+
+div h2 {border-bottom-style: ;
+}
+div span {float:right; color:rgb(177, 177, 177);}
+
+
